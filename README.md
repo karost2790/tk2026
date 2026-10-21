@@ -1,5 +1,12 @@
 # tk2026
-tech-knowledge 2026  refereence
+# tech-knowledge 2026  refereence
+
+## AI KNOLEDGE BASE
+
+
+
+
+## FLIGHT SIMMULATION
 ### Flight Dynamics Model
 - https://github.com/JSBSim-Team/jsbsim
 
