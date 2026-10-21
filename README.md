@@ -3,7 +3,11 @@
 
 ## AI KNOLEDGE BASE
 
-
+### In my repository
+- https://github.com/karost2790/ai-agents-for-beginners
+- https://github.com/karost2790/machine_learning_examples
+- https://github.com/karost2790/generative-ai-for-beginners
+- https://github.com/karost2790/Deep-Reinforcement-Learning-Hands-On-Second-Edition
 
 
 ## FLIGHT SIMMULATION
