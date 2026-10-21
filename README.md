@@ -1,6 +1,7 @@
 # tk2026
 tech-knowledge 2026  refereence
-
+### Flight Dynamics Model
+- https://github.com/JSBSim-Team/jsbsim
 
 ### Flight Simulation
 
