@@ -25,3 +25,7 @@ tech-knowledge 2026  refereence
 
 ### How to Build the JSBsim Plugin for Unreal Engine 5 | Step-by-Step Guide (UE5)
 - https://www.youtube.com/watch?v=vMRpgDSUwaU
+
+
+### IL2 Sturmovik
+- https://forum.il2sturmovik.com/topic/15853-bf109-leading-edge-slats/
