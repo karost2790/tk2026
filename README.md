@@ -4,6 +4,9 @@ tech-knowledge 2026  refereence
 
 ### Flight Simulation
 
+- https://www.flightgear.org/
+- https://www.unrealengine.com/
+
 - https://dev.epicgames.com/community/learning/tutorials/mmL/a-diy-flight-simulator-tutorial
 - https://www.unrealengine.com/blog/antoinette-project-tools-to-create-the-next-generation-of-flight-simulators?lang=en-US
 
