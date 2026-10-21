@@ -10,3 +10,10 @@ https://www.unrealengine.com/blog/antoinette-project-tools-to-create-the-next-ge
 https://flyawaysimulation.com/news/5002/
 https://flyawaysimulation.com/ask/answers/flight-simulator-aerodynamics-accuracy/
 https://flyawaysimulation.com/ask/answers/x-plane-vs-microsoft-flight-simulator-flight-physics/
+
+
+
+### Game Engine Integrations (Unity, Unreal, WebGPU)
+https://github.com/rlefko/flight-simulator
+https://github.com/ertanturan/Unity-FlightPhysics
+https://github.com/benaich04/F16_Flight_Simulator_VR
