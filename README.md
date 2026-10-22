@@ -29,6 +29,7 @@
 - https://www.flightgear.org/
 - https://gitlab.com/flightgear
 - https://www.unrealengine.com/
+- https://github.com/NikolaiVChr/f16
 
 - https://dev.epicgames.com/community/learning/tutorials/mmL/a-diy-flight-simulator-tutorial
 - https://www.unrealengine.com/blog/antoinette-project-tools-to-create-the-next-generation-of-flight-simulators?lang=en-US
@@ -44,13 +45,20 @@
 - https://github.com/ertanturan/Unity-FlightPhysics
 - https://github.com/benaich04/F16_Flight_Simulator_VR
 
-
 ### How to Build the JSBsim Plugin for Unreal Engine 5 | Step-by-Step Guide (UE5)
 - https://www.youtube.com/watch?v=vMRpgDSUwaU
 
 
 ### IL2 Sturmovik
 - https://forum.il2sturmovik.com/topic/15853-bf109-leading-edge-slats/
+
+
+### GRAPHICS AIP
+- https://www.vulkan.org/
+- https://www.opengl.org/
+- https://wikis.khronos.org/opengl/Main_Page
+- https://learnopengl.com/
+- https://www.khronos.org/webgl/
 
 
 
