@@ -40,3 +40,14 @@
 
 ### IL2 Sturmovik
 - https://forum.il2sturmovik.com/topic/15853-bf109-leading-edge-slats/
+
+
+
+## SERVER SECURITY 
+### PHP2Shell
+- https://www.vaadata.com/en/blog/php-security-best-practices-vulnerabilities-and-attacks/
+- https://www.f5.com/labs/articles/web-shells-understanding-attackers-tools-and-techniques
+- https://medium.com/@tareshsharma17/simple-php-reverse-shell-061d4a6bd18d
+
+  
+
