@@ -2,6 +2,16 @@
 # tech-knowledge 2026  refereence
 
 ## AI KNOLEDGE BASE
+### Local LLM
+- https://alain-airom.medium.com/a-first-experience-with-llama-cpp-cac181c64461
+- https://llama-cpp.com/getting-started/
+- https://tech-insider.org/llama-cpp-tutorial-2026/
+- https://build.nvidia.com/spark/llama-cpp
+- https://softwarecraft.ch/getting-started-with-llamacpp/
+- https://github.com/halo-box/strix-llama.cpp
+- https://skillsllm.com/skill/llama-cpp
+
+
 
 ### In my repository
 - https://github.com/karost2790/ai-agents-for-beginners
