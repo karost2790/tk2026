@@ -45,6 +45,7 @@
 
 
 ### Game Engine Integrations (Unity, Unreal, WebGPU)
+- https://docs.godotengine.org/en/stable/index.html
 - https://github.com/rlefko/flight-simulator
 - https://github.com/ertanturan/Unity-FlightPhysics
 - https://github.com/benaich04/F16_Flight_Simulator_VR
