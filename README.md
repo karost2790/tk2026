@@ -48,6 +48,7 @@
 - https://github.com/rlefko/flight-simulator
 - https://github.com/ertanturan/Unity-FlightPhysics
 - https://github.com/benaich04/F16_Flight_Simulator_VR
+- https://www.strayspark.studio/blog/mcp-ecosystem-game-developers-2026
 
 ### How to Build the JSBsim Plugin for Unreal Engine 5 | Step-by-Step Guide (UE5)
 - https://www.youtube.com/watch?v=vMRpgDSUwaU
