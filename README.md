@@ -2,6 +2,10 @@
 # tech-knowledge 2026  refereence
 
 ## AI KNOLEDGE BASE
+### cs109
+- https://probabilitycoders.stanford.edu/spr26/classification_performance
+- https://web.stanford.edu/class/cs109/
+
 ### Local LLM
 - https://alain-airom.medium.com/a-first-experience-with-llama-cpp-cac181c64461
 - https://llama-cpp.com/getting-started/
