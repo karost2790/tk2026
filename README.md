@@ -69,6 +69,14 @@
 
 
 ## SERVER SECURITY 
+
+### PENTEST
+- https://huggingface.co/automajicly/Local_Security_Model
+- https://github.com/S1N6H/pentest-harness
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-netwalker/
+- https://cert-agid.gov.it/news/netwalker-il-ransomware-che-ha-beffato-lintera-community/
+- https://github.com/ripmilla/netwalk
+
 ### PHP2Shell
 - https://www.vaadata.com/en/blog/php-security-best-practices-vulnerabilities-and-attacks/
 - https://www.f5.com/labs/articles/web-shells-understanding-attackers-tools-and-techniques
